@@ -6,6 +6,9 @@ Guided by Andrej Karpathy and his course: <a href="https://karpathy.ai/zero-to-h
 ### Technologies:
 - Python
 
+## Google Colab Notebook
+<a href="https://colab.research.google.com/drive/1WsA2YgQYEajuMCTksNoFfDW1t0NFcK4E?usp=sharing" target="_blank">Google Colab File</a>
+
 If you have any questions, please don't hesitate to reach out.
 
 **Contact**:
